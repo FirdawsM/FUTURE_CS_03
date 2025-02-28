@@ -2,7 +2,7 @@
 
 ## Incident Response Report: ARP Poisoning Attack
 
-### 🔍 **Overview**
+###  **Overview**
 This project focuses on **analyzing and responding to an ARP poisoning attack** as part of a **simulated cybersecurity incident response exercise**. The goal was to **understand how ARP spoofing works, analyze its impact, and implement security measures to prevent such attacks**.
 
 As an **ethical hacking and blue team exercise**, I **simulated an attack using Ettercap and Wireshark**, then **acted as an incident responder** to detect and mitigate the attack.
