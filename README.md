@@ -63,7 +63,7 @@ To stop an ongoing ARP poisoning attack:
 
 ---
 
-### 📌 **Note:**  
-🚀 This was a **controlled, ethical cybersecurity exercise** conducted for learning purposes. The **goal was to simulate an attack, analyze it, and implement defensive measures as an incident responder**.
+###  **Note:**  
+📌 This was a **controlled, ethical cybersecurity exercise** conducted for learning purposes. The **goal was to simulate an attack, analyze it, and implement defensive measures as an incident responder**.
 
 ---
